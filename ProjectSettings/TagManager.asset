@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DoiTuong
+  - Nen
+  - Death
+  - thung
+  - x3
+  - wallbotitem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - wall
+  - VaCham
+  - player
+  - projectile
+  - Ground
+  - spawnpoin
+  - destroy particle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - NPC
+  - Camera
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2766579207
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2738576067
+    locked: 0
+  - name: Tower
+    uniqueID: 1592386067
+    locked: 0
+  - name: UI
+    uniqueID: 2623621335
+    locked: 0
